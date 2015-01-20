@@ -3,7 +3,8 @@
 This is the summary of my book.
 
 
-* ﻿[book] (manuscript/book.txt)
-
+* ﻿[ভূমিকা] (manuscript/ভূমিকা.md)
+* [উইকিপিডিয়া - কী ও কেনো] (manuscript/উইকিপিডিয়া - কী ও কেনো.md)
+* [বাংলা উইকিপিডিয়া] (manuscript/বাংলা উইকিপিডিয়া.md)
 
 
