@@ -10,7 +10,7 @@
 
 
 # Wikipedia User Guide
-Wikipedia is a Encyclopedia. Everyone can contribute here. 
+Wikipedia is a Encyclopedia. Everyone can contribute here.
 
-In this book the author tried to guide the users of the Wikipedia to read and to contribute his/her knowledge back to Wikipedia. 
+In this book the author tried to guide the users of the Wikipedia to read and to contribute his/her knowledge back to Wikipedia.
 
