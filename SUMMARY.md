@@ -1,3 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+*[Introduction](README.md)
+*[ভূমিকা](manuscript/ভূমিকা.md)
