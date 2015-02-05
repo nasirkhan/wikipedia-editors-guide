@@ -11,7 +11,6 @@
 
 
 
-
 # Wikipedia User Guide
 Wikipedia is a Encyclopedia. Everyone can contribute here.
 
