@@ -17,9 +17,8 @@ Wikipedia is a Encyclopedia. Everyone can contribute here.
 In this book the author tried to guide the users of the Wikipedia to read and to contribute his/her knowledge back to Wikipedia.
 
 
-# সূচিপত্র
+## সূচিপত্র
 
-*[Introduction](README.md)
 *[ভূমিকা](manuscript/ভূমিকা.md)
 * [উইকিপিডিয়া - কী ও কেনো](manuscript/উইকিপিডিয়া - কী ও কেনো.md)
 * [বাংলা উইকিপিডিয়া](manuscript/বাংলা উইকিপিডিয়া.md)
