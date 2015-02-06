@@ -1,4 +1,4 @@
-# সূচিপত্র
+## সূচিপত্র
 
 * [Introduction](README.md)
 * [ভূমিকা](manuscript/ভূমিকা.md)
