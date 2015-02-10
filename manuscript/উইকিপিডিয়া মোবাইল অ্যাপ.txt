@@ -1,0 +1,9 @@
+# উইকিপিডিয়া মোবাইল অ্যাপ
+
+উইকিপিডিয়া মূলত ওয়েব ব্রাউজার থেকে ব্যবহার উপযোগী একটি বিশ্বকোষ। একই সাথে মোবাইল থেকেও আরও সহজে ব্যবহার করার জন্য উইকিপিডিয়ার অ্যান্ডয়েড এবং আইফোন অ্যাপ রয়েছে। পাশাপাশি উইকিপিডিয়ার সহপ্রকল্প *উইকিমিডিয়া কমন্সের* জন্যও রয়েছে আলাদা মোবাইল অ্যাপলিকেশন। 
+
+* উইকিপিডিয়া মোবাইল (অ্যান্ড্রয়েড): [https://play.google.com/store/apps/details?id=org.wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia)
+* উইকিপিডিয়া মোবাইল (আইওএস): [https://itunes.apple.com/en/app/wikipedia-mobile/id324715238](https://itunes.apple.com/en/app/wikipedia-mobile/id324715238)
+* উইকিমিডিয়া কমন্স: 
+
+
