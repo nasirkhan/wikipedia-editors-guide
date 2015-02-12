@@ -4,6 +4,7 @@
 
 * উইকিপিডিয়া মোবাইল (অ্যান্ড্রয়েড): [https://play.google.com/store/apps/details?id=org.wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia)
 * উইকিপিডিয়া মোবাইল (আইওএস): [https://itunes.apple.com/en/app/wikipedia-mobile/id324715238](https://itunes.apple.com/en/app/wikipedia-mobile/id324715238)
-* উইকিমিডিয়া কমন্স: 
+* উইকিমিডিয়া কমন্স(অ্যান্ড্রয়েড): [https://play.google.com/store/apps/details?id=org.wikimedia.commons](https://play.google.com/store/apps/details?id=org.wikimedia.commons)
+* উইকিমিডিয়া কমন্স (আইওএস): [https://itunes.apple.com/us/app/wikimedia-commons/id630901780](https://itunes.apple.com/us/app/wikimedia-commons/id630901780)
 
 
