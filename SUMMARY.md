@@ -27,6 +27,7 @@
 	* [ছবি সংযোজন](manuscript/include-images.md)
 	* [ছক বা টেবিল তৈরী](manuscript/wiki-tables.md)
 	* [বিষয়শ্রেণী সংযোজন](manuscript/add-categories.md)
+* [উইকিপিডিয়া অনুবাদ টুল](manuscript/content-translation.md)
 * [উইকিপিডিয়া মোবাইল অ্যাপ](manuscript/wikipedia-mobile-apps.md)
 	* [উইকিপিডিয়া মোবাইল অ্যাপ ব্যবহার পদ্ধতি](manuscript/how-to-use-wikipedia-apps.md)
 * [বিশ্বকোষীয় ধাঁচে লেখা](manuscript/style-of-writing-encylopedia-articles.md)
