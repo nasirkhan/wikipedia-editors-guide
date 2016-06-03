@@ -4,6 +4,6 @@
 
 উইকিমিডিয়া বাংলাদেশ এবং এর বিভিন্ন কার্যক্রম সম্পর্কে বিস্তারিত জানতে পারা যাবে প্রতিষ্ঠানটির মূল ওয়েবসাইট http://wikimedia.org.bd ঠিকানা থেকে। পাশাপাশি সামাজিক যোগাযোগের বিভিন্ন প্রফাইল থেকেও আপডেট জানা যাবে। 
 
-গুগল প্লাস পেজ: http://plus.google.com/101918607631503934751 
-ফেসবুক পেজ : http://www.facebook.com/wikimediabd
-টুইটার: http://twitter.com/wikimediabd 
+* গুগল প্লাস পেজ: http://plus.google.com/101918607631503934751 
+* ফেসবুক পেজ : http://www.facebook.com/wikimediabd
+* টুইটার: http://twitter.com/wikimediabd 
